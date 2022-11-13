@@ -32,26 +32,49 @@ Try To Steal some poor kid Roblox ⚔️
 
 > FUD (Fully Undetectable)
 
-> Password / Cookies
-- Steal Saved Passwords
-- Steal Brower Cookies
+All Browsers Password Grabber Stealer Token Grabber All in one webhook stealer
 
-> Wallet Stealer
-- Steal Metamask wallets
-- Steal Exodus Wallet
-- Steal Atomic Wallet
+FULLY UNDETECTED BY ALL ANTYVIRUS
 
-> Discord
-- Steal Discord Tokens from browsers
-- Steal Discord Token from discord, discordcanary, discordPTBa
+Discord Token🟢
 
-> Gaming
-- Steal Steam Launcher accounts
-- Steal Nation Glory Launcher accounts
+Browser Passwords🟢
 
-> File Stealer
-- Search User PC for Passwords, 2Fa codes, tokens, wallets...
-- Browsers: Opera, Chrome, Brave, Yandex, Edge
+Browser Cookies🟢
+
+Browser History🟢
+
+Roblox Cookies🟢
+
+Credit Cards🟢
+
+IP🟢
+
+Phone Number🟢
+
+Email🟢
+
+Discord Injection🟢
+
+Wifi Passwords🟢
+
+Minecraft Session Info🟢
+
+2FA Enabled Or Not🟢
+
+Gift Inventory Codes🟢
+
+Discord Backup Codes🟢
+
+If They Have Nitro🟢
+
+What OS They're Using🟢
+
+RAM🟢
+
+GPU🟢
+
+CPU🟢
 
 ### 〢 Screenshots
 
