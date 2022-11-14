@@ -1,4 +1,6 @@
 import os
+import sys, string, os
+import requests
 import threading
 from sys import executable
 from sqlite3 import connect as sql_connect
