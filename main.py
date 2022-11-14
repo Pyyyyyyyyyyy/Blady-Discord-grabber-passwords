@@ -22,7 +22,6 @@ import base64
 
 #  THIS IS 1.0 VERSION
 #
-# 
 hook = "PUT_YOUR_WEEBHOOK"
 DETECTED = False
 
